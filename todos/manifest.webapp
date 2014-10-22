@@ -1,0 +1,13 @@
+{
+  "name": "My First Firefox App",
+  "description": "Using Backbone.js sample",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon.png"
+  },
+  "developer": {
+    "name": "shoota",
+    "url": "http://github.com/shoota"
+  },
+  "default_locale": "en"
+}
